@@ -1,0 +1,13 @@
+C:\Users\eduhc\OneDrive\Área de Trabalho\Estudo\C#\Projeto\Prj_Rpg_Csharp\bin\Debug\netcoreapp3.1\Prj_Rpg_Csharp.exe
+C:\Users\eduhc\OneDrive\Área de Trabalho\Estudo\C#\Projeto\Prj_Rpg_Csharp\bin\Debug\netcoreapp3.1\Prj_Rpg_Csharp.deps.json
+C:\Users\eduhc\OneDrive\Área de Trabalho\Estudo\C#\Projeto\Prj_Rpg_Csharp\bin\Debug\netcoreapp3.1\Prj_Rpg_Csharp.runtimeconfig.json
+C:\Users\eduhc\OneDrive\Área de Trabalho\Estudo\C#\Projeto\Prj_Rpg_Csharp\bin\Debug\netcoreapp3.1\Prj_Rpg_Csharp.runtimeconfig.dev.json
+C:\Users\eduhc\OneDrive\Área de Trabalho\Estudo\C#\Projeto\Prj_Rpg_Csharp\bin\Debug\netcoreapp3.1\Prj_Rpg_Csharp.dll
+C:\Users\eduhc\OneDrive\Área de Trabalho\Estudo\C#\Projeto\Prj_Rpg_Csharp\bin\Debug\netcoreapp3.1\Prj_Rpg_Csharp.pdb
+C:\Users\eduhc\OneDrive\Área de Trabalho\Estudo\C#\Projeto\Prj_Rpg_Csharp\obj\Debug\netcoreapp3.1\Prj_Rpg_Csharp.csprojAssemblyReference.cache
+C:\Users\eduhc\OneDrive\Área de Trabalho\Estudo\C#\Projeto\Prj_Rpg_Csharp\obj\Debug\netcoreapp3.1\Prj_Rpg_Csharp.AssemblyInfoInputs.cache
+C:\Users\eduhc\OneDrive\Área de Trabalho\Estudo\C#\Projeto\Prj_Rpg_Csharp\obj\Debug\netcoreapp3.1\Prj_Rpg_Csharp.AssemblyInfo.cs
+C:\Users\eduhc\OneDrive\Área de Trabalho\Estudo\C#\Projeto\Prj_Rpg_Csharp\obj\Debug\netcoreapp3.1\Prj_Rpg_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\eduhc\OneDrive\Área de Trabalho\Estudo\C#\Projeto\Prj_Rpg_Csharp\obj\Debug\netcoreapp3.1\Prj_Rpg_Csharp.dll
+C:\Users\eduhc\OneDrive\Área de Trabalho\Estudo\C#\Projeto\Prj_Rpg_Csharp\obj\Debug\netcoreapp3.1\Prj_Rpg_Csharp.pdb
+C:\Users\eduhc\OneDrive\Área de Trabalho\Estudo\C#\Projeto\Prj_Rpg_Csharp\obj\Debug\netcoreapp3.1\Prj_Rpg_Csharp.genruntimeconfig.cache
